@@ -6,21 +6,21 @@
             "bin": [
                 "ortfodb_windows_386.exe"
             ],
-            "hash": "901abe78b9afc87b4378887b9a7ccd2bbfed21379e3ae35bdec799f96edb65d0"
+            "hash": "ff222146874321c087e66ffa8cfaf8dc60c74de6743312c3fbd7cf1573b6b4e8"
         },
         "64bit": {
             "url": "https://github.com/ortfo/db/releases/v1.3.0/ortfodb_Windows_x86_64.zip",
             "bin": [
                 "ortfodb_windows_amd64.exe"
             ],
-            "hash": "e106ec3cb8f058842cc950e52c541d7f569a8c539e38d437b8baa0703dbd9519"
+            "hash": "bad4c998b9cf74b3849d344bdf8b6fec7c686ebf040af819600b3e42876ffdd7"
         },
         "arm64": {
             "url": "https://github.com/ortfo/db/releases/v1.3.0/ortfodb_Windows_arm64.zip",
             "bin": [
                 "ortfodb_windows_arm64.exe"
             ],
-            "hash": "e0cc6db593ab889a97abac63c332cab51b0b2bf767b0bcc14a7be479ae0a717c"
+            "hash": "7de44ea19343263c2bc1ea32e253b81ff6a8ac22619f506333a2dc86f6c872e5"
         }
     },
     "homepage": "https://ortfo.org",
