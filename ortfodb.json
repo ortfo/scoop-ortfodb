@@ -1,0 +1,35 @@
+{
+    "version": "1.3.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/ortfo/db/releases/v1.3.0/ortfodb_Windows_i386.zip",
+            "bin": [
+                "ortfodb_windows_386.exe"
+            ],
+            "hash": "901abe78b9afc87b4378887b9a7ccd2bbfed21379e3ae35bdec799f96edb65d0"
+        },
+        "64bit": {
+            "url": "https://github.com/ortfo/db/releases/v1.3.0/ortfodb_Windows_x86_64.zip",
+            "bin": [
+                "ortfodb_windows_amd64.exe"
+            ],
+            "hash": "e106ec3cb8f058842cc950e52c541d7f569a8c539e38d437b8baa0703dbd9519"
+        },
+        "arm64": {
+            "url": "https://github.com/ortfo/db/releases/v1.3.0/ortfodb_Windows_arm64.zip",
+            "bin": [
+                "ortfodb_windows_arm64.exe"
+            ],
+            "hash": "e0cc6db593ab889a97abac63c332cab51b0b2bf767b0bcc14a7be479ae0a717c"
+        }
+    },
+    "homepage": "https://ortfo.org",
+    "license": "MIT",
+    "description": "A readable, easy and enjoyable way to manage portfolio databases using directories and text files.",
+    "shortcuts": [
+        [
+            "ortfodb.exe",
+            "ortfodb"
+        ]
+    ]
+}
