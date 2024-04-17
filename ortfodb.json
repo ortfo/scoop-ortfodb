@@ -1,26 +1,26 @@
 {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ortfo/db/releases/download/v1.4.0/ortfodb_Windows_i386.zip",
+            "url": "https://github.com/ortfo/db/releases/download/v1.4.1/ortfodb_Windows_i386.zip",
             "bin": [
                 "ortfodb_windows_386.exe"
             ],
-            "hash": "156c73bf329269f5d4c757e9ee0155c5fa4f0bc4bef1e670214e137e3ef1767e"
+            "hash": "ed93f83fc4eff89f9d1f0bb0ed6590e0873fa7c394980cdfb980c3a0adbf63ec"
         },
         "64bit": {
-            "url": "https://github.com/ortfo/db/releases/download/v1.4.0/ortfodb_Windows_x86_64.zip",
+            "url": "https://github.com/ortfo/db/releases/download/v1.4.1/ortfodb_Windows_x86_64.zip",
             "bin": [
                 "ortfodb_windows_amd64.exe"
             ],
-            "hash": "5064585ad4f31370f6b18dfbb78c3e70c7f5b51370758b6b9ddcd6bf731ff45d"
+            "hash": "da2d66aacd314ad41e9018eeeaf7f3e781f0b2dd471e1b5c7e6699c6d6716232"
         },
         "arm64": {
-            "url": "https://github.com/ortfo/db/releases/download/v1.4.0/ortfodb_Windows_arm64.zip",
+            "url": "https://github.com/ortfo/db/releases/download/v1.4.1/ortfodb_Windows_arm64.zip",
             "bin": [
                 "ortfodb_windows_arm64.exe"
             ],
-            "hash": "55093cd81e82b899401228efb0b6e333c1f9b83d92a56859715c85d17663768d"
+            "hash": "ff8871bf397d362d7fbbff005408590639c2cd5a3e428e069861d5939863a555"
         }
     },
     "homepage": "https://ortfo.org",
@@ -28,7 +28,8 @@
     "description": "A readable, easy and enjoyable way to manage portfolio databases using directories and text files.",
     "depends": [
         "imagemagick",
-        "ffmpeg"
+        "ffmpeg",
+        "libwebp"
     ],
     "shortcuts": [
         [
