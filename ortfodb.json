@@ -1,26 +1,26 @@
 {
-    "version": "1.4.1",
+    "version": "1.5.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ortfo/db/releases/download/v1.4.1/ortfodb_Windows_i386.zip",
+            "url": "https://github.com/ortfo/db/releases/download/v1.5.0/ortfodb_Windows_i386.zip",
             "bin": [
                 "ortfodb_windows_386.exe"
             ],
-            "hash": "ed93f83fc4eff89f9d1f0bb0ed6590e0873fa7c394980cdfb980c3a0adbf63ec"
+            "hash": "5bf5dd29f5829a95e3e6c7eb0daf715ee4dc07a738f722831c3f12af8f4f879c"
         },
         "64bit": {
-            "url": "https://github.com/ortfo/db/releases/download/v1.4.1/ortfodb_Windows_x86_64.zip",
+            "url": "https://github.com/ortfo/db/releases/download/v1.5.0/ortfodb_Windows_x86_64.zip",
             "bin": [
                 "ortfodb_windows_amd64.exe"
             ],
-            "hash": "da2d66aacd314ad41e9018eeeaf7f3e781f0b2dd471e1b5c7e6699c6d6716232"
+            "hash": "cd172ee6274bcf19b3ec65caa0daf046b54e387d1209b445f025c8387023ebbf"
         },
         "arm64": {
-            "url": "https://github.com/ortfo/db/releases/download/v1.4.1/ortfodb_Windows_arm64.zip",
+            "url": "https://github.com/ortfo/db/releases/download/v1.5.0/ortfodb_Windows_arm64.zip",
             "bin": [
                 "ortfodb_windows_arm64.exe"
             ],
-            "hash": "ff8871bf397d362d7fbbff005408590639c2cd5a3e428e069861d5939863a555"
+            "hash": "47db4eb38fe93482192107a1d56a7d72014249edd7c10e0d384b3ace24f38c3b"
         }
     },
     "homepage": "https://ortfo.org",
